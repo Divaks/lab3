@@ -14,7 +14,6 @@ public class AssaultDroid extends Droid {
     }
 
     public int attack() {
-        // Штурмовик має шанс нанести додатковий урон
         if (random.nextInt(100) < 20) {
             return damage + 15;
         }
