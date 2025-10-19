@@ -1,4 +1,4 @@
-import models.*;
+import model.*;
 import battle.*;
 import utils.FileManager;
 import java.util.*;

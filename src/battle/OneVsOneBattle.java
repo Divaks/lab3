@@ -1,6 +1,6 @@
 package battle;
 
-import models.Droid;
+import model.Droid;
 import java.util.Random;
 
 public class OneVsOneBattle {
